@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+# editor and IDE paraphernalia
+.idea/
+.go/
+.vscode
+*.swp
+*.swo
+*~
